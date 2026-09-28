@@ -70,3 +70,14 @@ The project can be improved in the future by adding:
 ## Project Status
 
 Completed - Python To-Do List Project
+
+##Screenshots
+
+### Main Menu
+![Main Menu](menu.png)
+
+### Tasks
+![Deleted Task](deleted-task.png)
+
+### Endof Task
+![Endof Task](endof-task.png)
